@@ -135,7 +135,7 @@ Open your browser at **http://127.0.0.1:5000**
 
 ## 👤 Credits
 
-**Developed by Sriram Chandika**
+**Developed by Narupalle Siva Nandini**
 
 - Built as a personal finance management project using Flask and SQLite.
 - Charts powered by [Chart.js](https://www.chartjs.org/)
